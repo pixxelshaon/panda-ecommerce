@@ -22,7 +22,7 @@ li {
     font-size: 30px;
     font-weight: 600;
 }
-.carousel-p, .card-text {
+.carousel-p, .card-text, .supcription-text, .footer-text {
     color:#837e7e ;
 }
 /* -------------------category---------------- */
@@ -46,11 +46,19 @@ li {
     color: #FDB84B;
    
 }
+.card-section {
+    padding: 50px 0;
+}
 /* ----------sbucription---------- */
-.subscription {
-    background-color: #FEEAE9;
+.subcription {
+    background-color: #FEEAE9 !important;
     padding: 50px 100px;
 
 }
+.subcribe-email {
+    border: none;
+    outline: none;
+}
+
 
 
