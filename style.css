@@ -9,3 +9,19 @@ a {
 li {
     list-style: none;
 }
+#carousel {
+    background-color: #FEEAE9;
+}
+.carousel-btn{
+    background-color: #FF1771;
+    color: #FF428D;
+    background-image: linear-gradient(to bottom,#FF428D, #FF1771);
+}
+.carousel-price {
+    color: #FF1771;
+    font-size: 30px;
+    font-weight: 600;
+}
+.carousel-p {
+    color:#837e7e ;
+}
