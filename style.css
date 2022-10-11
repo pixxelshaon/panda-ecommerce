@@ -22,6 +22,35 @@ li {
     font-size: 30px;
     font-weight: 600;
 }
-.carousel-p {
+.carousel-p, .card-text {
     color:#837e7e ;
 }
+/* -------------------category---------------- */
+#watch {
+    background-image: linear-gradient(to right, #F89B33,#FFD019);
+    
+}
+
+#bag {
+    background-image: linear-gradient(to right, #FF267B, #FF4992);
+}
+#shoes {
+    background-image: linear-gradient(to right, #4275FE, #3F09F8);
+}
+.see-all {
+    color: #FDB84B;
+    
+   
+}
+.see-all:hover {
+    color: #FDB84B;
+   
+}
+/* ----------sbucription---------- */
+.subscription {
+    background-color: #FEEAE9;
+    padding: 50px 100px;
+
+}
+
+
